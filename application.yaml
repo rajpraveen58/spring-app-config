@@ -18,4 +18,4 @@ spring:
   oauth2:
     resourceserver:
       jwt:
-        issuer-uri: https://dev-wjvz8fetjrt8y0qy.us.auth0.com/
+        issuer-uri: https://dev-wjvz8fetjrt8y0qy.us.auth0.com/.well-known/openid-configuration
